@@ -1,7 +1,7 @@
 // ============================================================
-//                    GSNCREATIONS
+//                    MTRIDER155
 // ============================================================
-// YouTube  : www.youtube.com/@GSNcreation07
+// YouTube  : www.youtube.com/
 //
 // About GSNCREATIONS:
 // We create Arduino & ESP32 based electronics projects,
@@ -71,8 +71,8 @@ void loop() {
 //                    CONNECT WITH US
 // ============================================================
 //
-// Instagram : @GSNCREATIONS
-// YouTube   : www.youtube.com/@GSNcreation07
+// Instagram : @fearless__rider_95
+// YouTube   : www.youtube.com/
 //
 // Have a doubt about this project?
 // Need help with the circuit, code or connections?
@@ -83,7 +83,7 @@ void loop() {
 //
 // ============================================================
 //                 THANK YOU FOR SUPPORTING
-//                     GSNCREATIONS ❤️
+//                     FEARLESS__RIDER_95❤️
 // ============================================================
 //
 // Keep Creating • Keep Learning • Keep Innovating
