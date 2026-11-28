@@ -25,9 +25,6 @@ Project: ESP32 OLED Music Display
 Component| Purpose
 ESP32 DevKit V1| Main controller
 OLED I2C Display| Visual output
-MAX9814 Microphone Module| Audio input
-Audio Amplifier| Audio output
-Speaker| Sound output
 Jumper Wires| Connections
 USB Power Supply| ESP32 power
 
@@ -43,21 +40,8 @@ GND| GND
 SCL| GPIO 22
 SDA| GPIO 21
 
-Microphone Module
 
-Microphone Pin| ESP32 Pin
-VCC| 3.3V
-GND| GND
-OUT| GPIO 3
 
-Audio Amplifier
-
-Amplifier Pin| Connection
-VIN| 5V
-GND| GND
-L| GPIO 25 (recorded project connection; verify against sketch)
-
-Note: Verify the microphone and amplifier signal connections against the actual working circuit and source code before reproducing the project. Do not connect speaker outputs directly to ESP32 GPIO pins.
 
 ---
 
@@ -82,9 +66,8 @@ The exact library versions and configuration will be documented after verificati
 ⚙️ HOW IT WORKS
 
 1. The ESP32 acts as the main controller.
-2. The microphone module receives audio signals.
-3. The ESP32 processes the programmed input.
-4. The OLED displays the programmed visual output.
+2. The ESP32 processes the programmed input.
+3. The OLED displays the programmed visual output.
 
 ---
 
